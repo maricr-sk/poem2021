@@ -1,5 +1,5 @@
 I think that I shall never see,
-A data structure as lovely as a tree,
+A data structure as lovely as a tree.
 With leaves all green,
 And soil all brown,
 Students all happy,
